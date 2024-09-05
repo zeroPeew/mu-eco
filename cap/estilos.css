@@ -1,0 +1,107 @@
+.caja1{
+    background-color: black;
+    width: 120px; height: 20px;
+    position: relative;
+    left: 62px ;
+    top: 65px;
+    border-radius: 50px;
+    border: 5px solid black;
+}
+.caja2{
+    background-color: white;
+    width: 120px; height: 120px;
+    position: relative;
+    transform: rotate(90deg);
+    border-radius: 100px;
+    border: 5px solid black;
+    left: 59px;
+    top: 55px;
+    
+
+}
+    
+.caja3{
+    background-color: white;
+    width: 150px; height: 150px;
+    position: relative;
+    left: 50px ;
+    top: 50px;
+    border-radius: 100px;
+    border: 5px solid black;
+}
+
+.caja4{
+    background-color: black;
+    width: 80px; height: 110px;
+    position: relative;
+    left: 80px ;
+    bottom:350px;
+    border: 5px solid black;
+}
+
+.caja5{
+    background-color: white;
+    width: 200px; height: 200px;
+    position: relative;
+    left: 30px ;
+    bottom: 77px;
+    border-radius: 100px;
+    border: 5px solid black;
+}
+
+.ojitos1{
+    background-color: white;
+    width: 20px; height: 20px;
+    border-radius: 100px;
+    border: 5px solid black;
+}
+.ojitos2{
+    background-color: white;
+    width: 20px; height: 20px;
+    border-radius: 100px;
+    border: 5px solid black;
+}
+ .ojos{
+    position: relative;
+    left: 30px;
+    top: 28px;
+ }
+ .e1{
+    background-color: black;
+    width: 20px; height: 20px;
+    position: relative;
+    left: 50px ;
+    top: 11px;
+    border-radius: 50px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.nariz{
+        width: 0; 
+        height: 0;
+        position: relative;
+        bottom: 50px;
+        left: 20px;
+        border-left: 90px solid #f0ad4e;
+        border-top: 10px solid transparent;
+        border-bottom: 10px solid transparent; 
+        transform: rotate(270deg);
+}
+.manitos{
+    background-color: black;
+    width: 100px;
+    height: 10px;
+    transform: rotate(45deg);
+    position: relative;
+    bottom: 450px;
+}
+.manitos1{
+    background-color: black;
+    width: 100px;
+    height: 10px;
+    transform: rotate(300deg);
+    position: relative;
+    bottom: 450px;
+    left: 165px;
+
+}
